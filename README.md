@@ -1,30 +1,19 @@
-# undefined
-  ![badge](https://img.shields.io/badge/license-undefined-brightgreen)<br />
-  
-  ## Description undefined
+# README Generator
+ 
+  ## Description  A node.js application that uses user input  to generate a README.md file for 
 
-  ## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
-  
-  ## Installation undefined
-  
-  ## Usage undefined
-  
-  ## Contributing undefined
-  
-  ## Tests undefined
-  
-  ## License undefined
-  
-  ## Questions
 
-<br />
- Find me on GitHub: [undefined](https://github.com/undefined)<br />
-<br />
- Email me with any questions: undefined<br /><br />
+  ## Installation 
+
+      npm init
+      npm inquirer
+
+  ## Usage 
+
+      by running node index on the terminal screen
+
+  ## Contributing 
+
+      Abeer Tannous
+  
+
