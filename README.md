@@ -1,7 +1,8 @@
 # README Generator
  
-  ## Description  A node.js application that uses user input  to generate a README.md file for 
+  ## Description  
 
+   A node.js application that uses user input  to generate a README.md file for 
 
   ## Installation 
 
