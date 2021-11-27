@@ -1,8 +1,8 @@
-# My Project
+# my project
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
   
-  ## Description this is a project that generate a profitional read me file 
-
+  ## Description  
+  this app is to generate readme file
   ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -12,15 +12,20 @@
 - [Tests](#Tests)
 - [Questions](#questions)
   
-  ## Installation you can do this with v s code 
+  ## Installation
+   npm init and inquirer
   
-  ## Usage use this project to generat README files
+  ## Usage
+   to creat readme files
   
-  ## Contributing made by abeer tannous
+  ## Contributing 
+  by abeer tannous
   
-  ## Tests you can answer the quistions on the terminal to generate the read me file 
+  ## Tests
+   ...
   
-  ## License MIT
+  ## License 
+  MIT
   
   ## Questions
 

@@ -15,8 +15,8 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)<br />
   
-  ## Description ${data.Discription}
-
+  ## Description  
+  ${data.Discription}
   ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -26,15 +26,20 @@ function generateMarkdown(data) {
 - [Tests](#Tests)
 - [Questions](#questions)
   
-  ## Installation ${data.installation}
+  ## Installation
+   ${data.installation}
   
-  ## Usage ${data.Usage}
+  ## Usage
+   ${data.Usage}
   
-  ## Contributing ${data.contribution}
+  ## Contributing 
+  ${data.contribution}
   
-  ## Tests ${data.test}
+  ## Tests
+   ${data.test}
   
-  ## License ${data.license}
+  ## License 
+  ${data.license}
   
   ## Questions
 
